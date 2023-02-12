@@ -1,0 +1,18 @@
+void main() {
+  //in this lecture we will learn variable
+  //how to declare variable?
+
+  int number;
+  int result;
+  number = 50;
+
+  int numberTwo;
+  numberTwo = 40;
+  numberTwo = -10;
+
+  result = number * numberTwo;
+
+  print(number);
+  print(numberTwo);
+  print(result);
+}
